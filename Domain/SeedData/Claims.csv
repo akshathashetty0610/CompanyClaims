@@ -1,0 +1,4 @@
+UCR,CompanyId,ClaimDate,LossDate,AssuredName,IncurredLoss,Closed
+1A,1,02/02/2013 00:00:00,02/02/2013 00:00:00,test,85875,True
+2B,3,04/04/2024 00:00:00,04/04/2024 00:00:00,Tom Hanks,67865.23,True
+3C,6,06/06/2023 00:00:00,12/12/2023 00:00:00,testkgkjg,24234,False
